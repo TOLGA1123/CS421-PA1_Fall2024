@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/74835362/i-am-getting-the-following-error-while-using-openais-whisper-ai-filenotfounde
+
+whisper + ffmpeg asdasdasdasdsadas
